@@ -1,11 +1,11 @@
-# FUTURE_FS_01
+# FUTURE_FS_02
 
 
 # TASK 2 WEATHER DASHBOARD
 
 ## 🌦️ WeatherVerse - Advanced Weather Forecasting
 
-[View Live Demo](https://warm-custard-8c9003.netlify.app)
+[View Live Demo](https://weatherapdashboard.netlify.app/)
 
 A beautiful, modern weather dashboard built with React, TypeScript, and Tailwind CSS. Get real-time weather information, forecasts, and life indices for any city worldwide.
 
@@ -91,7 +91,7 @@ npm run build
 ## 🌐 Deployment
 
 The project is deployed on Netlify and can be accessed at:
-[https://warm-custard-8c9003.netlify.app](https://warm-custard-8c9003.netlify.app)
+[https://warm-custard-8c9003.netlify.app](https://weatherapdashboard.netlify.app/)
 
 ## 📄 License
 
